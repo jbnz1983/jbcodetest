@@ -1,5 +1,10 @@
 # jbcodetest
-The purpose of this code test was to 
+The purpose of this code test was to provide a solution the code test to the following problem:
+
+One of the common problems encountered with a data feed is related to transactions and portfolio balances. There were cases where the total value of the transactions for a particular account does not equate to his/her portfolio balance.
+ 
+Create a script where it will take 2 CSVs, one for a list of accounts and their holding balances and another for a list of transactions. Ensure that the total value of the transactions per holding is equal to their holding balance. If not, produce a report stating which holding for a particular account is not correct.
+
 
 # My approach
 
