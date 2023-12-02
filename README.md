@@ -1,4 +1,4 @@
-# jbcodetest
+# Problem
 The purpose of this code test was to provide a solution the code test to the following problem:
 
 One of the common problems encountered with a data feed is related to transactions and portfolio balances. There were cases where the total value of the transactions for a particular account does not equate to his/her portfolio balance.
